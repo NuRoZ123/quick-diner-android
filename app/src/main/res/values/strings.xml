@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quick diner</string>
+
+    <!-- Login fragment -->
+    <string name="login_fragment">Connexion / Enregistrement</string>
+    <string name="login">Connexion</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="login_button">Se connecter</string>
+    <string name="register">Enregistrement</string>
+    <string name="last_name_hint">Nom</string>
+    <string name="first_name_hint">Prénom</string>
+    <string name="account_type_hint">Type de compte</string>
+    <string name="info_resteau">Information du restaurant</string>
+    <string name="confirm_password_hint">Confirmé le mot de passe</string>
+    <string name="restaurant_name_hint">Nom du restaurant</string>
+    <string name="image_restaurant_description">Image du restaurant à créer</string>
+    <string name="restaurant_adresse_hint">Adresse du restaurant</string>
+    <string name="restaurant_ville_hint">Ville du restaurant</string>
+    <string name="register_button">S\'enregistrer</string>
+    <string name="email_required">Veuillez saisir un email valide!</string>
+    <string name="password_required">Veuillez saisir un mot de passe!</string>
+</resources>
