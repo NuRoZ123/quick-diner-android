@@ -20,4 +20,12 @@
     <string name="register_button">S\'enregistrer</string>
     <string name="email_required">Veuillez saisir un email valide!</string>
     <string name="password_required">Veuillez saisir un mot de passe!</string>
+    <string name="nom_required">Veuillez saisir un nom!</string>
+    <string name="prenom_required">Veuillez saisir un prénom!</string>
+    <string name="type_de_compte_required">Veuillez saisir le type de compte!</string>
+    <string name="confirm_password_required">Veuillez confirmer le mot de passe!</string>
+    <string name="nom_restaurant_required">Veuillez saisir le nom du restaurant!</string>
+    <string name="image_required">Veuillez saisir l\'image du restaurant!</string>
+    <string name="adresse_required">Veuillez saisir l\'adresse du restaurant!</string>
+    <string name="ville_required">Veuillez saisir la ville du restaurant!</string>
 </resources>
